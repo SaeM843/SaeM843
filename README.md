@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sae!</h1>
 
 <!--
 **SaeM843/SaeM843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👨‍💻 My projects are available at [my portfolio page](https://saem843.github.io/Portfolio/)
+- 📫 You can contact me at sae.matsuda.843@gmail.com
+<h3>Languages</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaeM843&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/SaeM843/github-readme-stats)
